@@ -1,0 +1,4 @@
+# Ignore completely (no reading and no modifying)
+*.docx
+*.pdf
+backup/
